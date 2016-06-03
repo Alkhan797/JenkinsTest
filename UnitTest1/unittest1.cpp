@@ -19,12 +19,16 @@ namespace UnitTest1
 			Assert::AreEqual(
 				// Expected value:
 				0.0,
+				
 				// Actual value:
-				rooter.SquareRoot(0.1),
+				rooter.SquareRoot(20.0),
+				
 				// Tolerance:
 				0.01,
+				
 				// Message:
 				L"Basic test failed",
+				
 				// Line number - used if there is no PDB file:
 				LINE_INFO());
 		}
