@@ -21,7 +21,7 @@ namespace UnitTest1
 				0.0,
 				
 				// Actual value:
-				rooter.SquareRoot(10.0),
+				rooter.SquareRoot(0.0),
 				
 				// Tolerance:
 				0.01,
