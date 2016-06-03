@@ -1,4 +1,4 @@
-﻿La génération a démarré 03/06/2016 11:39:18.
+﻿La génération a démarré 03/06/2016 15:18:15.
      1>Projet "C:\Users\antoine.bourguet\Documents\Visual Studio 2013\Projects\UnitTest1\UnitTest1\UnitTest1.vcxproj" sur le nœud 2 (Rebuild cible(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\UnitTest1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt stdafx.cpp
@@ -15,4 +15,4 @@
 
 La génération a réussi.
 
-Temps écoulé 00:00:01.37
+Temps écoulé 00:00:01.32

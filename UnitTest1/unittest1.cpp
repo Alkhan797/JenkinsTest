@@ -16,6 +16,7 @@ namespace UnitTest1
 		TEST_METHOD(BasicTest)
 		{
 			CRootFinder rooter;
+			
 			Assert::AreEqual(
 				// Expected value:
 				0.0,
