@@ -20,7 +20,7 @@ namespace UnitTest1
 				// Expected value:
 				0.0,
 				// Actual value:
-				rooter.SquareRoot(0.0),
+				rooter.SquareRoot(0.1),
 				// Tolerance:
 				0.01,
 				// Message:
